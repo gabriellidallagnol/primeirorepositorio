@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<meta charset="utf-8">
+    <title>Café Starbuzz</title>
+
+<body>
+
+</body>
+</html>
+
+<h1 style="text-aling: center;">Café Starbuzz</h1>
+
+<h2> <strong> Mistura de Casa, R$ 1,49 </strong> </h2>
+
+<p style="podding: 15px">Uma mistura suave e delicada de café do México, Bolívia, e Guatemala </p>
+
+<strong> Café arábico com leite, R$ 2,35 </strong> </h2>
+
+<p style="podding: 20px"> Expresso, leão fervido e espuma </p>
+
+<h2> <strong> Chá chai, R$1,85</strong> </h2>
+
+<p style="podding: 20px"> Uma bebida condimentada com chá preto, especiarias, leite e mel </p>
